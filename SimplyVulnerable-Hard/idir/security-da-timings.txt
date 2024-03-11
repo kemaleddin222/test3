@@ -1,0 +1,26 @@
+# Version: 395a026bc9 p-2023.9-push-64
+# Command Line: C:\Program Files\Coverity\Coverity Static Analysis\bin\cov-security-da --dir C:\Users\hu4abis\Desktop\SimplyVulnerable-Hard\idir
+timer                                              ms      calls
+----------------------------------------------------------------
+cov_security_da::run                            66703          1
+  cov_security_da::doSecurityDA                 66687          1
+    Looking for translation units                  15          1
+    Computing links for translation units       17609          1
+    xfer symbol cache                             657          1
+    Dump bytecode TUs                            7203          1
+      dumpBytecode                               7203          1
+    runSecurityDA                               40969          1
+      runDotNetSecurityDA                       40969          1
+    (left over)                                   234
+
+activity                                           ms      calls
+----------------------------------------------------------------
+cov_security_da::run                            66703          1
+cov_security_da::doSecurityDA                   66687          1
+Looking for translation units                      15          1
+Computing links for translation units           17609          1
+xfer symbol cache                                 657          1
+Dump bytecode TUs                                7203          1
+dumpBytecode                                     7203          1
+runSecurityDA                                   40969          1
+runDotNetSecurityDA                             40969          1

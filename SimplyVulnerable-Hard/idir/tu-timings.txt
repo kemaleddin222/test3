@@ -1,0 +1,720 @@
+Translation unit:
+215 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.IO.MemoryMappedFiles.dll (reference assembly)
+Translation unit:
+225 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Linq.dll (reference assembly)
+Translation unit:
+224 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Linq.Queryable.dll (reference assembly)
+Translation unit:
+223 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Linq.Expressions.dll (reference assembly)
+Translation unit:
+222 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Linq.Parallel.dll (reference assembly)
+Translation unit:
+221 -> C:/Users/hu4abis/.nuget/packages/system.identitymodel.tokens.jwt/6.24.0/lib/net6.0/System.IdentityModel.Tokens.Jwt.dll
+Translation unit:
+220 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.IO.dll (reference assembly)
+Translation unit:
+219 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.IO.Pipes.dll (reference assembly)
+Translation unit:
+218 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.IO.UnmanagedMemoryStream.dll (reference assembly)
+Translation unit:
+217 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.IO.Pipes.AccessControl.dll (reference assembly)
+Translation unit:
+216 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/System.IO.Pipelines.dll (reference assembly)
+Translation unit:
+226 -> C:/Users/hu4abis/.nuget/packages/system.memory.data/1.0.2/lib/netstandard2.0/System.Memory.Data.dll
+Translation unit:
+214 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.IO.IsolatedStorage.dll (reference assembly)
+Translation unit:
+213 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.IO.FileSystem.dll (reference assembly)
+Translation unit:
+212 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.IO.FileSystem.Watcher.dll (reference assembly)
+Translation unit:
+211 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.IO.FileSystem.DriveInfo.dll (reference assembly)
+Translation unit:
+210 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.IO.FileSystem.AccessControl.dll (reference assembly)
+Translation unit:
+209 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.IO.FileSystem.Primitives.dll (reference assembly)
+Translation unit:
+208 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.IO.Compression.dll (reference assembly)
+Translation unit:
+207 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.IO.Compression.ZipFile.dll (reference assembly)
+Translation unit:
+206 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.IO.Compression.Brotli.dll (reference assembly)
+Translation unit:
+236 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Net.Requests.dll (reference assembly)
+Translation unit:
+245 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Net.dll
+Translation unit:
+244 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Net.WebSockets.dll (reference assembly)
+Translation unit:
+243 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Net.WebSockets.Client.dll (reference assembly)
+Translation unit:
+242 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Net.WebProxy.dll (reference assembly)
+Translation unit:
+241 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Net.WebHeaderCollection.dll (reference assembly)
+Translation unit:
+240 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Net.WebClient.dll (reference assembly)
+Translation unit:
+239 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Net.Sockets.dll (reference assembly)
+Translation unit:
+238 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Net.ServicePoint.dll (reference assembly)
+Translation unit:
+237 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Net.Security.dll (reference assembly)
+Translation unit:
+205 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.IO.Compression.FileSystem.dll
+Translation unit:
+235 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Net.Primitives.dll (reference assembly)
+Translation unit:
+234 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Net.Ping.dll (reference assembly)
+Translation unit:
+233 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Net.NetworkInformation.dll (reference assembly)
+Translation unit:
+232 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Net.NameResolution.dll (reference assembly)
+Translation unit:
+231 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Net.Mail.dll (reference assembly)
+Translation unit:
+230 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Net.HttpListener.dll (reference assembly)
+Translation unit:
+229 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Net.Http.dll (reference assembly)
+Translation unit:
+228 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Net.Http.Json.dll (reference assembly)
+Translation unit:
+227 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Memory.dll (reference assembly)
+Translation unit:
+174 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Collections.dll (reference assembly)
+Translation unit:
+184 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Data.DataSetExtensions.dll (reference assembly)
+Translation unit:
+183 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Core.dll
+Translation unit:
+182 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Console.dll (reference assembly)
+Translation unit:
+181 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Configuration.dll
+Translation unit:
+180 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.ComponentModel.TypeConverter.dll (reference assembly)
+Translation unit:
+179 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.ComponentModel.dll (reference assembly)
+Translation unit:
+178 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.ComponentModel.Primitives.dll (reference assembly)
+Translation unit:
+177 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.ComponentModel.EventBasedAsync.dll (reference assembly)
+Translation unit:
+176 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.ComponentModel.Annotations.dll (reference assembly)
+Translation unit:
+175 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.ComponentModel.DataAnnotations.dll
+Translation unit:
+185 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Data.Common.dll (reference assembly)
+Translation unit:
+173 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Collections.Specialized.dll (reference assembly)
+Translation unit:
+172 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Collections.NonGeneric.dll (reference assembly)
+Translation unit:
+171 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Collections.Immutable.dll (reference assembly)
+Translation unit:
+170 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.AppContext.dll (reference assembly)
+Translation unit:
+169 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Collections.Concurrent.dll (reference assembly)
+Translation unit:
+168 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Buffers.dll (reference assembly)
+Translation unit:
+167 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Win32.Registry.dll (reference assembly)
+Translation unit:
+166 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/Microsoft.VisualBasic.dll
+Translation unit:
+165 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Win32.Primitives.dll (reference assembly)
+Translation unit:
+195 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Diagnostics.TextWriterTraceListener.dll (reference assembly)
+Translation unit:
+204 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Globalization.dll (reference assembly)
+Translation unit:
+203 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Formats.Asn1.dll (reference assembly)
+Translation unit:
+202 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Globalization.Extensions.dll (reference assembly)
+Translation unit:
+201 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Globalization.Calendars.dll (reference assembly)
+Translation unit:
+200 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Dynamic.Runtime.dll (reference assembly)
+Translation unit:
+199 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Drawing.dll
+Translation unit:
+198 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Drawing.Primitives.dll (reference assembly)
+Translation unit:
+197 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Diagnostics.Tracing.dll (reference assembly)
+Translation unit:
+196 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Diagnostics.TraceSource.dll (reference assembly)
+Translation unit:
+246 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Numerics.dll
+Translation unit:
+194 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Diagnostics.Tools.dll (reference assembly)
+Translation unit:
+193 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Diagnostics.StackTrace.dll (reference assembly)
+Translation unit:
+192 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Diagnostics.Process.dll (reference assembly)
+Translation unit:
+191 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Diagnostics.FileVersionInfo.dll (reference assembly)
+Translation unit:
+190 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Diagnostics.DiagnosticSource.dll (reference assembly)
+Translation unit:
+189 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/System.Diagnostics.EventLog.dll (reference assembly)
+Translation unit:
+188 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Diagnostics.Contracts.dll (reference assembly)
+Translation unit:
+187 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Diagnostics.Debug.dll (reference assembly)
+Translation unit:
+186 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Data.dll
+Translation unit:
+297 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Text.Json.dll (reference assembly)
+Translation unit:
+307 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Threading.Timer.dll (reference assembly)
+Translation unit:
+306 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Threading.Thread.dll (reference assembly)
+Translation unit:
+305 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Threading.ThreadPool.dll (reference assembly)
+Translation unit:
+304 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Threading.Tasks.Parallel.dll (reference assembly)
+Translation unit:
+303 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Threading.Tasks.dll (reference assembly)
+Translation unit:
+302 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Threading.Tasks.Dataflow.dll (reference assembly)
+Translation unit:
+301 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Threading.Tasks.Extensions.dll (reference assembly)
+Translation unit:
+300 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Threading.Overlapped.dll (reference assembly)
+Translation unit:
+299 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Threading.Channels.dll (reference assembly)
+Translation unit:
+298 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Text.RegularExpressions.dll (reference assembly)
+Translation unit:
+308 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Threading.dll (reference assembly)
+Translation unit:
+296 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Text.Encodings.Web.dll (reference assembly)
+Translation unit:
+295 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Text.Encoding.Extensions.dll (reference assembly)
+Translation unit:
+294 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Text.Encoding.dll (reference assembly)
+Translation unit:
+293 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Text.Encoding.CodePages.dll (reference assembly)
+Translation unit:
+292 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.ServiceModel.Web.dll
+Translation unit:
+291 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.ServiceProcess.dll
+Translation unit:
+290 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Security.SecureString.dll (reference assembly)
+Translation unit:
+289 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Security.dll
+Translation unit:
+288 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Security.Principal.dll (reference assembly)
+Translation unit:
+318 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Xml.XPath.XDocument.dll (reference assembly)
+Translation unit:
+327 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/netstandard.dll
+Translation unit:
+326 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/mscorlib.dll
+Translation unit:
+325 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/WindowsBase.dll
+Translation unit:
+324 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.dll
+Translation unit:
+323 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Xml.dll
+Translation unit:
+322 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Xml.XmlSerializer.dll (reference assembly)
+Translation unit:
+321 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Xml.XmlDocument.dll (reference assembly)
+Translation unit:
+320 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Xml.XPath.dll (reference assembly)
+Translation unit:
+319 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Xml.XDocument.dll (reference assembly)
+Translation unit:
+287 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Security.Principal.Windows.dll (reference assembly)
+Translation unit:
+317 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Xml.ReaderWriter.dll (reference assembly)
+Translation unit:
+316 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Xml.Serialization.dll
+Translation unit:
+315 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Xml.Linq.dll
+Translation unit:
+314 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Windows.dll
+Translation unit:
+313 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Web.dll
+Translation unit:
+312 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Web.HttpUtility.dll (reference assembly)
+Translation unit:
+311 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.ValueTuple.dll (reference assembly)
+Translation unit:
+310 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Transactions.Local.dll (reference assembly)
+Translation unit:
+309 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Transactions.dll
+Translation unit:
+256 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Reflection.dll (reference assembly)
+Translation unit:
+266 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Runtime.InteropServices.dll (reference assembly)
+Translation unit:
+265 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Runtime.InteropServices.RuntimeInformation.dll (reference assembly)
+Translation unit:
+264 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Runtime.Handles.dll (reference assembly)
+Translation unit:
+263 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Runtime.Extensions.dll (reference assembly)
+Translation unit:
+262 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Runtime.CompilerServices.VisualC.dll (reference assembly)
+Translation unit:
+261 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Runtime.CompilerServices.Unsafe.dll (reference assembly)
+Translation unit:
+260 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Resources.Writer.dll (reference assembly)
+Translation unit:
+259 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Resources.ResourceManager.dll (reference assembly)
+Translation unit:
+258 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Resources.Reader.dll (reference assembly)
+Translation unit:
+257 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Reflection.TypeExtensions.dll (reference assembly)
+Translation unit:
+267 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Runtime.Loader.dll (reference assembly)
+Translation unit:
+255 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Reflection.Metadata.dll (reference assembly)
+Translation unit:
+254 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Reflection.Primitives.dll (reference assembly)
+Translation unit:
+253 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Reflection.Extensions.dll (reference assembly)
+Translation unit:
+252 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Reflection.Emit.dll (reference assembly)
+Translation unit:
+251 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Reflection.Emit.Lightweight.dll (reference assembly)
+Translation unit:
+250 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Reflection.Emit.ILGeneration.dll (reference assembly)
+Translation unit:
+249 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Reflection.DispatchProxy.dll (reference assembly)
+Translation unit:
+248 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.ObjectModel.dll (reference assembly)
+Translation unit:
+247 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Numerics.Vectors.dll (reference assembly)
+Translation unit:
+277 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Runtime.dll (reference assembly)
+Translation unit:
+286 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/System.Security.Cryptography.Xml.dll (reference assembly)
+Translation unit:
+285 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Security.Cryptography.X509Certificates.dll (reference assembly)
+Translation unit:
+284 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Security.Cryptography.Primitives.dll (reference assembly)
+Translation unit:
+283 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Security.Cryptography.OpenSsl.dll (reference assembly)
+Translation unit:
+282 -> C:/Users/hu4abis/.nuget/packages/system.security.cryptography.protecteddata/6.0.0/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+Translation unit:
+281 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Security.Cryptography.Encoding.dll (reference assembly)
+Translation unit:
+280 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Security.Cryptography.Csp.dll (reference assembly)
+Translation unit:
+279 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Security.Cryptography.Cng.dll (reference assembly)
+Translation unit:
+278 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Security.Cryptography.Algorithms.dll (reference assembly)
+Translation unit:
+164 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/Microsoft.VisualBasic.Core.dll (reference assembly)
+Translation unit:
+276 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Security.Claims.dll (reference assembly)
+Translation unit:
+275 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Security.AccessControl.dll (reference assembly)
+Translation unit:
+274 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Runtime.Serialization.dll
+Translation unit:
+273 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Runtime.Serialization.Xml.dll (reference assembly)
+Translation unit:
+272 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Runtime.Serialization.Primitives.dll (reference assembly)
+Translation unit:
+271 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Runtime.Serialization.Json.dll (reference assembly)
+Translation unit:
+270 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Runtime.Serialization.Formatters.dll (reference assembly)
+Translation unit:
+269 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Runtime.Numerics.dll (reference assembly)
+Translation unit:
+268 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/System.Runtime.Intrinsics.dll (reference assembly)
+Translation unit:
+52 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Hosting.dll (reference assembly)
+Translation unit:
+62 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.HttpOverrides.dll (reference assembly)
+Translation unit:
+61 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.HttpLogging.dll (reference assembly)
+Translation unit:
+60 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Http.dll (reference assembly)
+Translation unit:
+59 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Http.Results.dll (reference assembly)
+Translation unit:
+58 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Http.Features.dll (reference assembly)
+Translation unit:
+57 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Http.Extensions.dll (reference assembly)
+Translation unit:
+56 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Http.Connections.dll (reference assembly)
+Translation unit:
+55 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Http.Connections.Common.dll (reference assembly)
+Translation unit:
+54 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Http.Abstractions.dll (reference assembly)
+Translation unit:
+53 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Html.Abstractions.dll (reference assembly)
+Translation unit:
+63 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.HttpsPolicy.dll (reference assembly)
+Translation unit:
+51 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll (reference assembly)
+Translation unit:
+50 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Hosting.Abstractions.dll (reference assembly)
+Translation unit:
+49 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Diagnostics.dll (reference assembly)
+Translation unit:
+48 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.HostFiltering.dll (reference assembly)
+Translation unit:
+47 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll (reference assembly)
+Translation unit:
+46 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Diagnostics.Abstractions.dll (reference assembly)
+Translation unit:
+45 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.DataProtection.dll (reference assembly)
+Translation unit:
+44 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.DataProtection.Extensions.dll (reference assembly)
+Translation unit:
+43 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.DataProtection.Abstractions.dll (reference assembly)
+Translation unit:
+73 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Mvc.DataAnnotations.dll (reference assembly)
+Translation unit:
+82 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Razor.dll (reference assembly)
+Translation unit:
+81 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Razor.Runtime.dll (reference assembly)
+Translation unit:
+80 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Mvc.ViewFeatures.dll (reference assembly)
+Translation unit:
+79 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Mvc.dll (reference assembly)
+Translation unit:
+78 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Mvc.TagHelpers.dll (reference assembly)
+Translation unit:
+77 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Mvc.Razor.dll (reference assembly)
+Translation unit:
+76 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Mvc.Localization.dll (reference assembly)
+Translation unit:
+75 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Mvc.RazorPages.dll (reference assembly)
+Translation unit:
+74 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll (reference assembly)
+Translation unit:
+42 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll (reference assembly)
+Translation unit:
+72 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Mvc.Formatters.Json.dll (reference assembly)
+Translation unit:
+71 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Mvc.Core.dll (reference assembly)
+Translation unit:
+70 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Mvc.Cors.dll (reference assembly)
+Translation unit:
+69 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Mvc.ApiExplorer.dll (reference assembly)
+Translation unit:
+68 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Mvc.Abstractions.dll (reference assembly)
+Translation unit:
+67 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Metadata.dll (reference assembly)
+Translation unit:
+66 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Localization.dll (reference assembly)
+Translation unit:
+65 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Localization.Routing.dll (reference assembly)
+Translation unit:
+64 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Identity.dll (reference assembly)
+Translation unit:
+11 -> C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 85
+cov-translate invocation time (seconds): 87
+cov-build invocation time (seconds): 99
+Translation unit:
+21 -> C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Pages/_ViewStart.cshtml
+cov-emit-cs invocation time (seconds): 85
+cov-translate invocation time (seconds): 87
+cov-build invocation time (seconds): 99
+Translation unit:
+20 -> C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Pages/SSR.cshtml
+cov-emit-cs invocation time (seconds): 85
+cov-translate invocation time (seconds): 87
+cov-build invocation time (seconds): 99
+Translation unit:
+19 -> C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Pages/Shared/_ValidationScriptsPartial.cshtml
+cov-emit-cs invocation time (seconds): 85
+cov-translate invocation time (seconds): 87
+cov-build invocation time (seconds): 99
+Translation unit:
+18 -> C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Pages/Privacy.cshtml
+cov-emit-cs invocation time (seconds): 85
+cov-translate invocation time (seconds): 87
+cov-build invocation time (seconds): 99
+Translation unit:
+17 -> C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Pages/Index.cshtml
+cov-emit-cs invocation time (seconds): 85
+cov-translate invocation time (seconds): 87
+cov-build invocation time (seconds): 99
+Translation unit:
+16 -> C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Pages/Error.cshtml
+cov-emit-cs invocation time (seconds): 85
+cov-translate invocation time (seconds): 87
+cov-build invocation time (seconds): 99
+Translation unit:
+15 -> C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Pages/_ViewImports.cshtml
+cov-emit-cs invocation time (seconds): 85
+cov-translate invocation time (seconds): 87
+cov-build invocation time (seconds): 99
+Translation unit:
+14 -> C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Pages/Comm.cshtml
+cov-emit-cs invocation time (seconds): 85
+cov-translate invocation time (seconds): 87
+cov-build invocation time (seconds): 99
+Translation unit:
+13 -> C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 85
+cov-translate invocation time (seconds): 87
+cov-build invocation time (seconds): 99
+Translation unit:
+12 -> C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/obj/Debug/net6.0/App.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 85
+cov-translate invocation time (seconds): 87
+cov-build invocation time (seconds): 99
+Translation unit:
+22 -> C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Pages/Shared/_Layout.cshtml
+cov-emit-cs invocation time (seconds): 85
+cov-translate invocation time (seconds): 87
+cov-build invocation time (seconds): 99
+Translation unit:
+10 -> C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/obj/Debug/net6.0/App.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 85
+cov-translate invocation time (seconds): 87
+cov-build invocation time (seconds): 99
+Translation unit:
+9 -> C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Program.cs
+cov-emit-cs invocation time (seconds): 85
+cov-translate invocation time (seconds): 87
+cov-build invocation time (seconds): 99
+Translation unit:
+8 -> C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Pages/SSR.cshtml.cs
+cov-emit-cs invocation time (seconds): 85
+cov-translate invocation time (seconds): 87
+cov-build invocation time (seconds): 99
+Translation unit:
+7 -> C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Pages/Privacy.cshtml.cs
+cov-emit-cs invocation time (seconds): 85
+cov-translate invocation time (seconds): 87
+cov-build invocation time (seconds): 99
+Translation unit:
+6 -> C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Pages/Index.cshtml.cs
+cov-emit-cs invocation time (seconds): 85
+cov-translate invocation time (seconds): 87
+cov-build invocation time (seconds): 99
+Translation unit:
+5 -> C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Pages/Error.cshtml.cs
+cov-emit-cs invocation time (seconds): 85
+cov-translate invocation time (seconds): 87
+cov-build invocation time (seconds): 99
+Translation unit:
+4 -> C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Pages/Comm.cshtml.cs
+cov-emit-cs invocation time (seconds): 85
+cov-translate invocation time (seconds): 87
+cov-build invocation time (seconds): 99
+Translation unit:
+3 -> C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Interfaces/IDBWrite.cs
+cov-emit-cs invocation time (seconds): 85
+cov-translate invocation time (seconds): 87
+cov-build invocation time (seconds): 99
+Translation unit:
+2 -> C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Impls/OneVulnerableMethod.cs
+cov-emit-cs invocation time (seconds): 85
+cov-translate invocation time (seconds): 87
+cov-build invocation time (seconds): 99
+Translation unit:
+32 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Authorization.dll (reference assembly)
+Translation unit:
+41 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Cors.dll (reference assembly)
+Translation unit:
+40 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll (reference assembly)
+Translation unit:
+39 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.CookiePolicy.dll (reference assembly)
+Translation unit:
+38 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Components.dll (reference assembly)
+Translation unit:
+37 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Connections.Abstractions.dll (reference assembly)
+Translation unit:
+36 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Components.Server.dll (reference assembly)
+Translation unit:
+35 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Components.Web.dll (reference assembly)
+Translation unit:
+34 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Components.Forms.dll (reference assembly)
+Translation unit:
+33 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Components.Authorization.dll (reference assembly)
+Translation unit:
+83 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll (reference assembly)
+Translation unit:
+31 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Authorization.Policy.dll (reference assembly)
+Translation unit:
+30 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Authentication.OAuth.dll (reference assembly)
+Translation unit:
+29 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Authentication.dll (reference assembly)
+Translation unit:
+28 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Authentication.Core.dll (reference assembly)
+Translation unit:
+27 -> C:/Users/hu4abis/.nuget/packages/azure.identity/1.7.0/lib/netstandard2.0/Azure.Identity.dll
+Translation unit:
+26 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Authentication.Cookies.dll (reference assembly)
+Translation unit:
+25 -> C:/Users/hu4abis/.nuget/packages/azure.core/1.25.0/lib/net5.0/Azure.Core.dll
+Translation unit:
+24 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Authentication.Abstractions.dll (reference assembly)
+Translation unit:
+23 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Antiforgery.dll (reference assembly)
+Translation unit:
+133 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Hosting.dll (reference assembly)
+Translation unit:
+143 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Logging.EventLog.dll (reference assembly)
+Translation unit:
+142 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Logging.Debug.dll (reference assembly)
+Translation unit:
+141 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Logging.Console.dll (reference assembly)
+Translation unit:
+140 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Logging.Abstractions.dll (reference assembly)
+Translation unit:
+139 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Logging.Configuration.dll (reference assembly)
+Translation unit:
+138 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Localization.dll (reference assembly)
+Translation unit:
+137 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Localization.Abstractions.dll (reference assembly)
+Translation unit:
+136 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Identity.Stores.dll (reference assembly)
+Translation unit:
+135 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Identity.Core.dll (reference assembly)
+Translation unit:
+134 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Http.dll (reference assembly)
+Translation unit:
+144 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Logging.EventSource.dll (reference assembly)
+Translation unit:
+132 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Hosting.Abstractions.dll (reference assembly)
+Translation unit:
+131 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.FileSystemGlobbing.dll (reference assembly)
+Translation unit:
+130 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.FileProviders.Physical.dll (reference assembly)
+Translation unit:
+129 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.FileProviders.Embedded.dll (reference assembly)
+Translation unit:
+128 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.FileProviders.Composite.dll (reference assembly)
+Translation unit:
+127 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.FileProviders.Abstractions.dll (reference assembly)
+Translation unit:
+126 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Features.dll (reference assembly)
+Translation unit:
+125 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Diagnostics.HealthChecks.dll (reference assembly)
+Translation unit:
+124 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll (reference assembly)
+Translation unit:
+154 -> C:/Users/hu4abis/.nuget/packages/microsoft.identitymodel.abstractions/6.24.0/lib/net6.0/Microsoft.IdentityModel.Abstractions.dll
+Translation unit:
+163 -> C:/Users/hu4abis/.nuget/packages/microsoft.identitymodel.tokens/6.24.0/lib/net6.0/Microsoft.IdentityModel.Tokens.dll
+Translation unit:
+162 -> C:/Users/hu4abis/.nuget/packages/microsoft.sqlserver.server/1.0.0/lib/netstandard2.0/Microsoft.SqlServer.Server.dll
+Translation unit:
+161 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Net.Http.Headers.dll (reference assembly)
+Translation unit:
+160 -> C:/Users/hu4abis/.nuget/packages/microsoft.identity.client/4.47.2/lib/netcoreapp2.1/Microsoft.Identity.Client.dll
+Translation unit:
+159 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.JSInterop.dll (reference assembly)
+Translation unit:
+158 -> C:/Users/hu4abis/.nuget/packages/microsoft.identitymodel.protocols/6.24.0/lib/net6.0/Microsoft.IdentityModel.Protocols.dll
+Translation unit:
+157 -> C:/Users/hu4abis/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.24.0/lib/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Translation unit:
+156 -> C:/Users/hu4abis/.nuget/packages/microsoft.identitymodel.logging/6.24.0/lib/net6.0/Microsoft.IdentityModel.Logging.dll
+Translation unit:
+155 -> C:/Users/hu4abis/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.24.0/lib/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+Translation unit:
+123 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.DependencyInjection.dll (reference assembly)
+Translation unit:
+153 -> C:/Users/hu4abis/.nuget/packages/microsoft.identity.client.extensions.msal/2.19.3/lib/netcoreapp2.1/Microsoft.Identity.Client.Extensions.Msal.dll
+Translation unit:
+152 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.WebEncoders.dll (reference assembly)
+Translation unit:
+151 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Primitives.dll (reference assembly)
+Translation unit:
+150 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Options.dll (reference assembly)
+Translation unit:
+149 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Options.DataAnnotations.dll (reference assembly)
+Translation unit:
+148 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll (reference assembly)
+Translation unit:
+147 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.ObjectPool.dll (reference assembly)
+Translation unit:
+146 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Logging.TraceSource.dll (reference assembly)
+Translation unit:
+145 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Logging.dll (reference assembly)
+Translation unit:
+93 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll (reference assembly)
+Translation unit:
+102 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.WebSockets.dll (reference assembly)
+Translation unit:
+101 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.StaticFiles.dll (reference assembly)
+Translation unit:
+100 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.SignalR.dll (reference assembly)
+Translation unit:
+99 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.SignalR.Core.dll (reference assembly)
+Translation unit:
+98 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll (reference assembly)
+Translation unit:
+97 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.SignalR.Common.dll (reference assembly)
+Translation unit:
+96 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Session.dll (reference assembly)
+Translation unit:
+95 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Server.Kestrel.dll (reference assembly)
+Translation unit:
+94 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Server.Kestrel.Core.dll (reference assembly)
+Translation unit:
+103 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.WebUtilities.dll (reference assembly)
+Translation unit:
+92 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll (reference assembly)
+Translation unit:
+91 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Server.IIS.dll (reference assembly)
+Translation unit:
+90 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Server.IISIntegration.dll (reference assembly)
+Translation unit:
+89 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Server.HttpSys.dll (reference assembly)
+Translation unit:
+88 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Routing.dll (reference assembly)
+Translation unit:
+87 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Routing.Abstractions.dll (reference assembly)
+Translation unit:
+86 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.Rewrite.dll (reference assembly)
+Translation unit:
+85 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.ResponseCompression.dll (reference assembly)
+Translation unit:
+84 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.ResponseCaching.dll (reference assembly)
+Translation unit:
+113 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Configuration.CommandLine.dll (reference assembly)
+Translation unit:
+122 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll (reference assembly)
+Translation unit:
+121 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Configuration.dll (reference assembly)
+Translation unit:
+120 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Configuration.Xml.dll (reference assembly)
+Translation unit:
+119 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Configuration.UserSecrets.dll (reference assembly)
+Translation unit:
+118 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Configuration.KeyPerFile.dll (reference assembly)
+Translation unit:
+117 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Configuration.Json.dll (reference assembly)
+Translation unit:
+116 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Configuration.Ini.dll (reference assembly)
+Translation unit:
+115 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Configuration.FileExtensions.dll (reference assembly)
+Translation unit:
+114 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Configuration.EnvironmentVariables.dll (reference assembly)
+Translation unit:
+1 -> C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Impls/AnotherVulnerableMethod.cs
+cov-emit-cs invocation time (seconds): 85
+cov-translate invocation time (seconds): 87
+cov-build invocation time (seconds): 99
+Translation unit:
+112 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Configuration.Binder.dll (reference assembly)
+Translation unit:
+111 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll (reference assembly)
+Translation unit:
+110 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Caching.Memory.dll (reference assembly)
+Translation unit:
+109 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.Extensions.Caching.Abstractions.dll (reference assembly)
+Translation unit:
+108 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.27/ref/net6.0/Microsoft.CSharp.dll (reference assembly)
+Translation unit:
+107 -> C:/Users/hu4abis/.nuget/packages/microsoft.data.sqlclient/5.1.1/ref/net6.0/Microsoft.Data.SqlClient.dll
+Translation unit:
+106 -> C:/Users/hu4abis/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/ref/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll (reference assembly)
+Translation unit:
+105 -> C:/Program Files/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.27/ref/net6.0/Microsoft.AspNetCore.dll (reference assembly)
+Translation unit:
+104 -> C:/Users/hu4abis/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll

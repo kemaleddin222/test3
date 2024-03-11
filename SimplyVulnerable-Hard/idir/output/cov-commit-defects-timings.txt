@@ -1,0 +1,98 @@
+# Version: 395a026bc9 p-2023.9-push-64
+# Command Line: C:\Program Files\Coverity\Coverity Static Analysis\bin\cov-commit-defects --dir C:\Users\hu4abis\Desktop\SimplyVulnerable-Hard\idir --url http://hqcovcon.asb.az:8080 --stream SimplyVulnerable-Hard --on-new-cert distrust --auth-key-file C:\Users\hu4abis\AppData\Roaming\Coverity\authkeys\ak-hqcovcon.asb.az-8080
+timer                                          ms      calls
+------------------------------------------------------------
+cov-commit-defects                           2219          1
+  set_working_domain                            0          1
+  send_analysis_and_build_metrics              47          2
+    open emit DB                                0          1
+  send_defects_v3                             359          2
+    HashKVS mappingBegin                        0          2
+      HashKVSBigLockRead                        0          2
+    HashKVS find                                0          4
+      HashKVSBigLockRead                        0          4
+      find                                      0          4
+        read partial table                      0          6
+    serialized_event_lists_t::xfer              0          4
+      xferLocs                                  0          4
+      xferUnserializedEvents                    0          4
+        HashKVS find                            0          8
+          HashKVSBigLockRead                    0          8
+          find                                  0          8
+            read partial table                  0         12
+  start_determining_blame_v2                   16          1
+  send_snapshot_info                            0          1
+  send_analysis_settings_v1                     0          1
+  send_collectable_analysis_metrics             0          1
+  send_his_metrics                              0          1
+  send_sourcefile_descriptions_v3               0          1
+    retrieve_string_from_table                  0         46
+  send_filtering_report                         0          1
+  send_xrefs_v2                                16          1
+    HashKVS mappingBegin                        0          1
+      HashKVSBigLockRead                        0          1
+  send_cva_files_v1                             0          1
+  send_functions_v1                            16          1
+  send_owners_v1                               16          1
+  send_output_files_v1                        125          1
+  send_scm_change_record_md5s                  16          1
+    open emit DB                                0          1
+  send_scm_annotation_md5s                      0          1
+    open emit DB                                0          1
+  send_analysis_summaries_md5_v1               31          1
+    HashKVS has_key                             0          1
+      HashKVSBigLockRead                        0          1
+      find                                      0          1
+        read partial table                      0          1
+    HashKVS mappingBegin                        0          1
+      HashKVSBigLockRead                        0          1
+  send_analysis_summaries_contents_v1           0          1
+    HashKVS find                                0          2
+      HashKVSBigLockRead                        0          2
+      find                                      0          2
+        read partial table                      0          2
+  send_desktop_analysis_data_v1                 0          1
+    HashKVS find                                0          1
+      HashKVSBigLockRead                        0          1
+      find                                      0          1
+        read partial table                      0          1
+  send_timestamp_v1                             0          1
+  check_updates_v0                              0          1
+  (left over)                                1577
+
+activity                                       ms      calls
+------------------------------------------------------------
+cov-commit-defects                           2219          1
+set_working_domain                              0          1
+send_analysis_and_build_metrics                47          2
+open emit DB                                    0          3
+send_defects_v3                               359          2
+HashKVS mappingBegin                            0          4
+HashKVSBigLockRead                              0         20
+HashKVS find                                    0         15
+find                                            0         16
+read partial table                              0         22
+serialized_event_lists_t::xfer                  0          4
+xferLocs                                        0          4
+xferUnserializedEvents                          0          4
+start_determining_blame_v2                     16          1
+send_snapshot_info                              0          1
+send_analysis_settings_v1                       0          1
+send_collectable_analysis_metrics               0          1
+send_his_metrics                                0          1
+send_sourcefile_descriptions_v3                 0          1
+retrieve_string_from_table                      0         46
+send_filtering_report                           0          1
+send_xrefs_v2                                  16          1
+send_cva_files_v1                               0          1
+send_functions_v1                              16          1
+send_owners_v1                                 16          1
+send_output_files_v1                          125          1
+send_scm_change_record_md5s                    16          1
+send_scm_annotation_md5s                        0          1
+send_analysis_summaries_md5_v1                 31          1
+HashKVS has_key                                 0          1
+send_analysis_summaries_contents_v1             0          1
+send_desktop_analysis_data_v1                   0          1
+send_timestamp_v1                               0          1
+check_updates_v0                                0          1

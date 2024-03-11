@@ -1,0 +1,15 @@
+"C:\Program Files\Coverity\Coverity Static Analysis\bin\cov-analyze" --dir C:\Users\hu4abis\Desktop\SimplyVulnerable-Hard\idir --strip-path C:\Users\hu4abis\Desktop\SimplyVulnerable-Hard --all --webapp-security --webapp-security-aggressiveness-level high 
+Analysis summary report:
+------------------------
+Files analyzed                 : 51 Total
+    C#                         : 31
+    JavaScript                 : 1
+    Text                       : 19
+Total LoC input to cov-analyze : 3704
+Functions analyzed             : 204
+Paths analyzed                 : 810
+Time taken by analysis         : 00:00:36
+Defect occurrences found       : 6 Total
+                                 3 RESOURCE_LEAK
+                                 2 SQLI
+                                 1 XML_EXTERNAL_ENTITY

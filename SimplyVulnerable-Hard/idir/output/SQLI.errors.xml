@@ -1,0 +1,108 @@
+<error>
+<domain>STATIC_CS</domain>
+<lang>C#</lang>
+<checker>SQLI</checker>
+<type>sql_injection</type>
+<subtype>sink</subtype>
+<file>C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Pages/Index.cshtml.cs</file>
+<function>System.Void App.Pages.IndexModel::OnPost()</function>
+<ordered>true</ordered>
+<event>
+<tag>taint</tag>
+<description>{CovLStrv2{{t{Calling {0}.}{{code{Form.get}}}}{t{ Reading data from an HTTP request, which is considered tainted}}{t{ (The virtual call resolves to {0}.)}{{code{Microsoft.AspNetCore.Http.HttpRequest.Form.get()}}}}}}</description>
+<line>24</line>
+<column>13</column>
+</event>
+<event>
+<tag>identity</tag>
+<description>{CovLStrv2{{t{Calling {0}.}{{code{implicit operator string}}}}{t{ This call assigns {0} to {1}. Now {2} is tainted.}{{code{base.Request.Form[&quot;some_value&quot;]}}}{{code{&lt;return value&gt;}}}{{code{&lt;return value&gt;}}}}}}</description>
+<line>24</line>
+<column>13</column>
+</event>
+<event>
+<main>true</main>
+<tag>sql_sink</tag>
+<description>{CovLStrv2{{t{Calling {0}.}{{code{WriteToDB}}}}{t{ Passing the tainted value {0} to the SQL API may allow an attacker to inject SQL.}{{code{Microsoft.Extensions.Primitives.StringValues.implicit operator string(base.Request.Form[&quot;some_value&quot;])}}}}{t{ (The virtual call resolves to {0}.)}{{code{App.Impls.AnotherVulnerableMethod.WriteToDB(System.String)}}}}}}</description>
+<line>24</line>
+<column>13</column>
+<model_ptr>
+<module>module</module>
+<property>prop</property>
+<file>C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Impls/AnotherVulnerableMethod.cs</file>
+<function>System.String App.Impls.AnotherVulnerableMethod::WriteToDB(System.String)</function>
+<key>d37daa2e7adb559d2ed9b1bbc655c61a</key>
+<id>2</id>
+</model_ptr>
+</event>
+<event>
+<remediation>true</remediation>
+<tag>remediation</tag>
+<description>{CovLStrv2{{t{Use one of the following methods:{0}}{{ul{{t{Use a query-preparation API to safely construct the SQL query containing user-supplied values.}}}{{t{Only concatenate a user-supplied value into a query if it has been checked against a whitelist of safe string values, or if it must be a Boolean or numeric type.}}}}}}}}</description>
+<line>24</line>
+<column>13</column>
+</event>
+<extra>WriteToDB:get_Form</extra>
+<subcategory>sink</subcategory>
+<antecedentMerge>
+<function>System.String App.Impls.AnotherVulnerableMethod::WriteToDB(System.String)</function>
+<extra>&quot;SELECT * FROM SomeTable WHERE SomeColumn = \'{0}\'&quot;,Format,something,temporary</extra>
+</antecedentMerge>
+<eventSetCaptions>
+<eventSetCaption>Flow of tainted data to a vulnerable sink</eventSetCaption>
+<eventSetCaption>Additional context</eventSetCaption>
+</eventSetCaptions>
+</error>
+<error>
+<domain>STATIC_CS</domain>
+<lang>C#</lang>
+<checker>SQLI</checker>
+<type>sql_injection</type>
+<subtype>sink</subtype>
+<file>C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Pages/Index.cshtml.cs</file>
+<function>System.Void App.Pages.IndexModel::OnPost()</function>
+<ordered>true</ordered>
+<event>
+<tag>taint</tag>
+<description>{CovLStrv2{{t{Calling {0}.}{{code{Form.get}}}}{t{ Reading data from an HTTP request, which is considered tainted}}{t{ (The virtual call resolves to {0}.)}{{code{Microsoft.AspNetCore.Http.HttpRequest.Form.get()}}}}}}</description>
+<line>24</line>
+<column>13</column>
+</event>
+<event>
+<tag>identity</tag>
+<description>{CovLStrv2{{t{Calling {0}.}{{code{implicit operator string}}}}{t{ This call assigns {0} to {1}. Now {2} is tainted.}{{code{base.Request.Form[&quot;some_value&quot;]}}}{{code{&lt;return value&gt;}}}{{code{&lt;return value&gt;}}}}}}</description>
+<line>24</line>
+<column>13</column>
+</event>
+<event>
+<main>true</main>
+<tag>sql_sink</tag>
+<description>{CovLStrv2{{t{Calling {0}.}{{code{WriteToDB}}}}{t{ Passing the tainted value {0} to the SQL API may allow an attacker to inject SQL.}{{code{Microsoft.Extensions.Primitives.StringValues.implicit operator string(base.Request.Form[&quot;some_value&quot;])}}}}{t{ (The virtual call resolves to {0}.)}{{code{App.Impls.OneVulnerableMethod.WriteToDB(System.String)}}}}}}</description>
+<line>24</line>
+<column>13</column>
+<model_ptr>
+<module>module</module>
+<property>prop</property>
+<file>C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Impls/OneVulnerableMethod.cs</file>
+<function>System.String App.Impls.OneVulnerableMethod::WriteToDB(System.String)</function>
+<key>7a89f41c9926938a10d24c8c54c30534</key>
+<id>2</id>
+</model_ptr>
+</event>
+<event>
+<remediation>true</remediation>
+<tag>remediation</tag>
+<description>{CovLStrv2{{t{Use one of the following methods:{0}}{{ul{{t{Use a query-preparation API to safely construct the SQL query containing user-supplied values.}}}{{t{Only concatenate a user-supplied value into a query if it has been checked against a whitelist of safe string values, or if it must be a Boolean or numeric type.}}}}}}}}</description>
+<line>24</line>
+<column>13</column>
+</event>
+<extra>WriteToDB:get_Form</extra>
+<subcategory>sink</subcategory>
+<antecedentMerge>
+<function>System.String App.Impls.OneVulnerableMethod::WriteToDB(System.String)</function>
+<extra>something</extra>
+</antecedentMerge>
+<eventSetCaptions>
+<eventSetCaption>Flow of tainted data to a vulnerable sink</eventSetCaption>
+<eventSetCaption>Additional context</eventSetCaption>
+</eventSetCaptions>
+</error>

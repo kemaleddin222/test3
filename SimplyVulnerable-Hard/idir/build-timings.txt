@@ -1,0 +1,28 @@
+# Version: 395a026bc9 p-2023.9-push-64
+# Command Line: C:\Program Files\Coverity\Coverity Static Analysis\bin\cov-build --dir C:\Users\hu4abis\Desktop\SimplyVulnerable-Hard\idir -c C:\Users\hu4abis\Desktop\SimplyVulnerable-Hard\idir\point-and-scan\build-compiler-configs\coverity_config.xml --append-log --no-security-da dotnet msbuild /t:Restore;Clean;Build C:\Users\hu4abis\Desktop\SimplyVulnerable-Hard\ASPNET_DI_Vulnerable.sln
+timer                              ms      calls
+------------------------------------------------
+cov-build                       98781          1
+  create_or_open emit DB           16          1
+    open emit DB                    0          1
+  add_string_to_table               0        104
+  addEmitFileName                   0          1
+    addEmitFileName                 0          1
+      addEmitFileName               0          1
+        addEmitFileName             0          1
+          addEmitFileName           0          1
+  Prepare capture                  15          1
+  Running build command         97687          1
+  TUInfo::getPrimarySFRow           0        327
+  (left over)                    1063
+
+activity                           ms      calls
+------------------------------------------------
+cov-build                       98781          1
+create_or_open emit DB             16          1
+open emit DB                        0          1
+add_string_to_table                 0        104
+addEmitFileName                     0          5
+Prepare capture                    15          1
+Running build command           97687          1
+TUInfo::getPrimarySFRow             0        327

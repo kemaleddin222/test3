@@ -1,0 +1,4 @@
+Native Compiler invocation: ./ --coverity_resp_file=C:\Users\hu4abis\Desktop\SimplyVulnerable-Hard\idir\tmp\cicf-cf2afb60f00c723c88fcf3df4ac76656\cov-translate-resp-file3
+Working directory: C:\Users\hu4abis\Desktop\SimplyVulnerable-Hard
+Comptype: capture-config-files
+* Configuring Configuration Filesystem Capture

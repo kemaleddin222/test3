@@ -1,0 +1,114 @@
+<error>
+<domain>STATIC_CS</domain>
+<lang>C#</lang>
+<checker>RESOURCE_LEAK</checker>
+<type>resource_leak</type>
+<file>C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Pages/SSR.cshtml.cs</file>
+<function>System.Void App.Pages.SSRModel::OnGet()</function>
+<score>100</score>
+<ordered>true</ordered>
+<event>
+<tag>new_resource</tag>
+<description>{CovLStrv2{{t{{0} creates a new resource.}{{code{new System.Net.Http.HttpClient()}}}}}}</description>
+<line>40</line>
+<column>13</column>
+</event>
+<event>
+<tag>var_assign</tag>
+<description>{CovLStrv2{{t{Assigning: {0} = resource returned from {1}.}{{code{client}}}{{code{new System.Net.Http.HttpClient()}}}}}}</description>
+<line>40</line>
+<column>13</column>
+</event>
+<event>
+<main>true</main>
+<tag>leaked_resource</tag>
+<description>{CovLStrv2{{t{Variable {0} going out of scope leaks the resource it refers to.}{{code{client}}}}}}</description>
+<line>43</line>
+<column>9</column>
+</event>
+<extra>client</extra>
+<subcategory>none</subcategory>
+<antecedentMerge>
+<extra></extra>
+</antecedentMerge>
+</error>
+<error>
+<domain>STATIC_CS</domain>
+<lang>C#</lang>
+<checker>RESOURCE_LEAK</checker>
+<type>resource_leak</type>
+<file>C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Impls/AnotherVulnerableMethod.cs</file>
+<function>System.String App.Impls.AnotherVulnerableMethod::WriteToDB(System.String)</function>
+<score>100</score>
+<ordered>true</ordered>
+<event>
+<tag>new_resource</tag>
+<description>{CovLStrv2{{t{{0} creates a new resource.}{{code{new Microsoft.Data.SqlClient.SqlCommand(System.String.Format(&quot;SELECT * FROM SomeTable WHERE SomeColumn = '{L}0{R}'&quot;, something), con)}}}}}}</description>
+<line>12</line>
+<column>13</column>
+</event>
+<event>
+<tag>var_assign</tag>
+<description>{CovLStrv2{{t{Assigning: {0} = resource returned from {1}.}{{code{cmd}}}{{code{new Microsoft.Data.SqlClient.SqlCommand(System.String.Format(&quot;SELECT * FROM SomeTable WHERE SomeColumn = '{L}0{R}'&quot;, something), con)}}}}}}</description>
+<line>12</line>
+<column>13</column>
+</event>
+<event>
+<tag>noescape</tag>
+<description>{CovLStrv2{{t{Resource {0} is not closed or saved in {1}.}{{code{cmd}}}{{code{ExecuteScalar}}}}}}</description>
+<line>14</line>
+<column>13</column>
+</event>
+<event>
+<main>true</main>
+<tag>leaked_resource</tag>
+<description>{CovLStrv2{{t{Variable {0} going out of scope leaks the resource it refers to.}{{code{cmd}}}}}}</description>
+<line>14</line>
+<column>13</column>
+</event>
+<extra>cmd</extra>
+<subcategory>none</subcategory>
+<antecedentMerge>
+<extra></extra>
+</antecedentMerge>
+</error>
+<error>
+<domain>STATIC_CS</domain>
+<lang>C#</lang>
+<checker>RESOURCE_LEAK</checker>
+<type>resource_leak</type>
+<file>C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Impls/OneVulnerableMethod.cs</file>
+<function>System.String App.Impls.OneVulnerableMethod::WriteToDB(System.String)</function>
+<score>100</score>
+<ordered>true</ordered>
+<event>
+<tag>new_resource</tag>
+<description>{CovLStrv2{{t{{0} creates a new resource.}{{code{new Microsoft.Data.SqlClient.SqlCommand(&quot;SELECT * FROM SomeTable WHERE SomeColumn = '&quot; + something + &quot;'&quot;, con)}}}}}}</description>
+<line>12</line>
+<column>13</column>
+</event>
+<event>
+<tag>var_assign</tag>
+<description>{CovLStrv2{{t{Assigning: {0} = resource returned from {1}.}{{code{cmd}}}{{code{new Microsoft.Data.SqlClient.SqlCommand(&quot;SELECT * FROM SomeTable WHERE SomeColumn = '&quot; + something + &quot;'&quot;, con)}}}}}}</description>
+<line>12</line>
+<column>13</column>
+</event>
+<event>
+<tag>noescape</tag>
+<description>{CovLStrv2{{t{Resource {0} is not closed or saved in {1}.}{{code{cmd}}}{{code{ExecuteScalar}}}}}}</description>
+<line>14</line>
+<column>13</column>
+</event>
+<event>
+<main>true</main>
+<tag>leaked_resource</tag>
+<description>{CovLStrv2{{t{Variable {0} going out of scope leaks the resource it refers to.}{{code{cmd}}}}}}</description>
+<line>14</line>
+<column>13</column>
+</event>
+<extra>cmd</extra>
+<subcategory>none</subcategory>
+<antecedentMerge>
+<extra></extra>
+</antecedentMerge>
+</error>

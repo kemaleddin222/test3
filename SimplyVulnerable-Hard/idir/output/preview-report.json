@@ -1,0 +1,183 @@
+{
+  "header" : {
+    "format" : "commit preview report",
+    "version" : 2
+  },
+  "analysisInfo" : {
+    "ownerAssignmentRule" : "default_component_owner",
+    "comparisonSnapshotId" : null,
+    "reportTimestamp" : "2024-03-10T22:01:08.504Z",
+    "user" : "admin",
+    "command" : "C:\\Program Files\\Coverity\\Coverity Static Analysis\\bin\\cov-analyze --dir C:\\Users\\hu4abis\\Desktop\\SimplyVulnerable-Hard\\idir --strip-path C:\\Users\\hu4abis\\Desktop\\SimplyVulnerable-Hard --all --webapp-security --webapp-security-aggressiveness-level high"
+  },
+  "issueInfo" : [ {
+    "cid" : 10018,
+    "mergeKey" : "d7b97d89034a53e3936c98492f83807d",
+    "presentInComparisonSnapshot" : false,
+    "firstDetectedDateTime" : "2024-03-06T20:58:27.255Z",
+    "occurrences" : [ {
+      "checker" : "RESOURCE_LEAK",
+      "file" : "/App/Impls/AnotherVulnerableMethod.cs",
+      "function" : "System.String App.Impls.AnotherVulnerableMethod::WriteToDB(System.String)",
+      "extra" : "cmd",
+      "mergeWithLowercaseFile" : false,
+      "subcategory" : "none",
+      "mainEventLineNumber" : 14,
+      "mainEventDescription" : "Variable \"cmd\" going out of scope leaks the resource it refers to.",
+      "componentName" : "Other",
+      "componentDefaultOwner" : null,
+      "componentDefaultOwnerLdapServer" : null,
+      "score" : null,
+      "language" : "C#"
+    } ],
+    "triage" : {
+      "severity" : "Unspecified",
+      "owner" : null,
+      "externalReference" : null,
+      "legacy" : "False",
+      "fixTarget" : "Untargeted",
+      "action" : "Undecided",
+      "classification" : "Unclassified"
+    },
+    "customTriage" : { },
+    "ownerLdapServerName" : null
+  }, {
+    "cid" : 10023,
+    "mergeKey" : "e238059d9843a19915e0478a8999a3dc",
+    "presentInComparisonSnapshot" : false,
+    "firstDetectedDateTime" : "2024-03-10T22:01:08.504Z",
+    "occurrences" : [ {
+      "checker" : "XML_EXTERNAL_ENTITY",
+      "file" : "/App/Pages/Comm.cshtml.cs",
+      "function" : "System.Void App.Pages.CommModel::OnPost()",
+      "extra" : "@\"xxe.xml\"",
+      "mergeWithLowercaseFile" : false,
+      "subcategory" : "unrestricted_dtds",
+      "mainEventLineNumber" : 33,
+      "mainEventDescription" : "Passing the value \"\"xxe.xml\"\" to a weakly configured XML parser.  An attacker-controlled DTD may include external entity URLs, and the resolution of external entities may expose sensitive data or result in unwanted server requests. Processing an attacker-controlled DTD may also result in an overwhelming number of entity expansions, causing denial of service.",
+      "componentName" : "Other",
+      "componentDefaultOwner" : null,
+      "componentDefaultOwnerLdapServer" : null,
+      "score" : null,
+      "language" : "C#"
+    } ],
+    "triage" : {
+      "severity" : "Unspecified",
+      "owner" : null,
+      "externalReference" : null,
+      "legacy" : "False",
+      "fixTarget" : "Untargeted",
+      "action" : "Undecided",
+      "classification" : "Unclassified"
+    },
+    "customTriage" : { },
+    "ownerLdapServerName" : null
+  }, {
+    "cid" : 10021,
+    "mergeKey" : "0944b0310ead8c0ddc51f1b0c1fc763d",
+    "presentInComparisonSnapshot" : false,
+    "firstDetectedDateTime" : "2024-03-10T21:29:29.849Z",
+    "occurrences" : [ {
+      "checker" : "RESOURCE_LEAK",
+      "file" : "/App/Pages/SSR.cshtml.cs",
+      "function" : "System.Void App.Pages.SSRModel::OnGet()",
+      "extra" : "client",
+      "mergeWithLowercaseFile" : false,
+      "subcategory" : "none",
+      "mainEventLineNumber" : 43,
+      "mainEventDescription" : "Variable \"client\" going out of scope leaks the resource it refers to.",
+      "componentName" : "Other",
+      "componentDefaultOwner" : null,
+      "componentDefaultOwnerLdapServer" : null,
+      "score" : null,
+      "language" : "C#"
+    } ],
+    "triage" : {
+      "severity" : "Unspecified",
+      "owner" : null,
+      "externalReference" : null,
+      "legacy" : "False",
+      "fixTarget" : "Untargeted",
+      "action" : "Undecided",
+      "classification" : "Unclassified"
+    },
+    "customTriage" : { },
+    "ownerLdapServerName" : null
+  }, {
+    "cid" : 10019,
+    "mergeKey" : "9d31cc6d7ae58d721f30456e05c25806",
+    "presentInComparisonSnapshot" : false,
+    "firstDetectedDateTime" : "2024-03-06T20:58:27.255Z",
+    "occurrences" : [ {
+      "checker" : "RESOURCE_LEAK",
+      "file" : "/App/Impls/OneVulnerableMethod.cs",
+      "function" : "System.String App.Impls.OneVulnerableMethod::WriteToDB(System.String)",
+      "extra" : "cmd",
+      "mergeWithLowercaseFile" : false,
+      "subcategory" : "none",
+      "mainEventLineNumber" : 14,
+      "mainEventDescription" : "Variable \"cmd\" going out of scope leaks the resource it refers to.",
+      "componentName" : "Other",
+      "componentDefaultOwner" : null,
+      "componentDefaultOwnerLdapServer" : null,
+      "score" : null,
+      "language" : "C#"
+    } ],
+    "triage" : {
+      "severity" : "Unspecified",
+      "owner" : null,
+      "externalReference" : null,
+      "legacy" : "False",
+      "fixTarget" : "Untargeted",
+      "action" : "Undecided",
+      "classification" : "Unclassified"
+    },
+    "customTriage" : { },
+    "ownerLdapServerName" : null
+  }, {
+    "cid" : 10020,
+    "mergeKey" : "9f51602ac352d8394f86ef23827d9575",
+    "presentInComparisonSnapshot" : false,
+    "firstDetectedDateTime" : "2024-03-06T20:58:27.255Z",
+    "occurrences" : [ {
+      "checker" : "SQLI",
+      "file" : "/App/Pages/Index.cshtml.cs",
+      "function" : "System.Void App.Pages.IndexModel::OnPost()",
+      "extra" : "WriteToDB:get_Form",
+      "mergeWithLowercaseFile" : false,
+      "subcategory" : "sink",
+      "mainEventLineNumber" : 24,
+      "mainEventDescription" : "Calling \"WriteToDB\". Passing the tainted value \"Microsoft.Extensions.Primitives.StringValues.implicit operator string(base.Request.Form[\"some_value\"])\" to the SQL API may allow an attacker to inject SQL. (The virtual call resolves to \"App.Impls.AnotherVulnerableMethod.WriteToDB(System.String)\".)",
+      "componentName" : "Other",
+      "componentDefaultOwner" : null,
+      "componentDefaultOwnerLdapServer" : null,
+      "score" : null,
+      "language" : "C#"
+    }, {
+      "checker" : "SQLI",
+      "file" : "/App/Pages/Index.cshtml.cs",
+      "function" : "System.Void App.Pages.IndexModel::OnPost()",
+      "extra" : "WriteToDB:get_Form",
+      "mergeWithLowercaseFile" : false,
+      "subcategory" : "sink",
+      "mainEventLineNumber" : 24,
+      "mainEventDescription" : "Calling \"WriteToDB\". Passing the tainted value \"Microsoft.Extensions.Primitives.StringValues.implicit operator string(base.Request.Form[\"some_value\"])\" to the SQL API may allow an attacker to inject SQL. (The virtual call resolves to \"App.Impls.OneVulnerableMethod.WriteToDB(System.String)\".)",
+      "componentName" : "Other",
+      "componentDefaultOwner" : null,
+      "componentDefaultOwnerLdapServer" : null,
+      "score" : null,
+      "language" : "C#"
+    } ],
+    "triage" : {
+      "severity" : "Unspecified",
+      "owner" : null,
+      "externalReference" : null,
+      "legacy" : "False",
+      "fixTarget" : "Untargeted",
+      "action" : "Undecided",
+      "classification" : "Unclassified"
+    },
+    "customTriage" : { },
+    "ownerLdapServerName" : null
+  } ]
+}

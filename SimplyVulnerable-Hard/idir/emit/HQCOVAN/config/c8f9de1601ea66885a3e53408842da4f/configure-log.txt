@@ -1,0 +1,8 @@
+Native Compiler invocation: ./ --coverity_resp_file=C:\Users\hu4abis\Desktop\SimplyVulnerable-Hard\idir\tmp\cicf-cf2afb60f00c723c88fcf3df4ac76656\cov-translate-resp-file1
+Working directory: C:\Users\hu4abis\Desktop\SimplyVulnerable-Hard
+Comptype: javascript
+* Configuring JavaScript Filesystem Capture (javascript)
+Checking for 'mount' command
+Checking for Cygwin registry keys
+           * HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Cygnus Solutions\Cygwin
+           * HKEY_CURRENT_USER\SOFTWARE\Wow6432Node\Cygnus Solutions\Cygwin

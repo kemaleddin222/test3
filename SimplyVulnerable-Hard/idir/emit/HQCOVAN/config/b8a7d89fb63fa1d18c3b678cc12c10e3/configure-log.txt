@@ -1,0 +1,4 @@
+Native Compiler invocation: c:/program files/dotnet/dotnet.exe exec C:\Program Files\dotnet\sdk\8.0.200\Roslyn\bincore\csc.dll /noconfig @C:\Users\hu4abis\AppData\Local\Temp\17\MSBuildTemp\tmpc7fab500a94c4e7f8b285ce8bdb3c217.rsp
+Working directory: C:\Users\hu4abis\Desktop\SimplyVulnerable-Hard\App
+Comptype: dotnet
+* Configuring c:\program files\dotnet\dotnet as a C# compiler

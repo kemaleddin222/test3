@@ -1,0 +1,26 @@
+<error>
+<domain>STATIC_CS</domain>
+<lang>C#</lang>
+<checker>XML_EXTERNAL_ENTITY</checker>
+<type>xml_external_entity</type>
+<subtype>unrestricted_dtds</subtype>
+<file>C:/Users/hu4abis/Desktop/SimplyVulnerable-Hard/App/Pages/Comm.cshtml.cs</file>
+<function>System.Void App.Pages.CommModel::OnPost()</function>
+<ordered>true</ordered>
+<event>
+<main>true</main>
+<tag>xml_processor_sink</tag>
+<description>{CovLStrv2{{t{Passing the value {0} to a weakly configured XML parser. }{{code{&quot;xxe.xml&quot;}}}}{t{ An attacker-controlled DTD may include external entity URLs, and the resolution of external entities may expose sensitive data or result in unwanted server requests. Processing an attacker-controlled DTD may also result in an overwhelming number of entity expansions, causing denial of service.}}}}</description>
+<line>33</line>
+<column>11</column>
+</event>
+<event>
+<remediation>true</remediation>
+<tag>remediation</tag>
+<description>{CovLStrv2{{t{The recommended and strongest prevention against both external entity and entity expansion attacks is to disable DTD processing in the parser.}}{t{ Set the XML parser configuration to disable DTD processing.}}}}</description>
+<line>33</line>
+<column>11</column>
+</event>
+<extra>@&quot;xxe.xml&quot;</extra>
+<subcategory>unrestricted_dtds</subcategory>
+</error>

@@ -1,0 +1,193 @@
+[
+  {
+    "directives": [
+      {
+        "after": [],
+        "before": [],
+        "default_views": [],
+        "entry_point": "App.Pages.Pages_Comm::ExecuteAsync()System.Threading.Tasks.Task",
+        "param_taint": [
+          null
+        ],
+        "return": "NORMAL"
+      },
+      {
+        "after": [],
+        "before": [],
+        "default_views": [],
+        "entry_point": "App.Pages.Pages_Error::ExecuteAsync()System.Threading.Tasks.Task",
+        "param_taint": [
+          null
+        ],
+        "return": "NORMAL"
+      },
+      {
+        "after": [],
+        "before": [],
+        "default_views": [],
+        "entry_point": "App.Pages.Pages_Index::ExecuteAsync()System.Threading.Tasks.Task",
+        "param_taint": [
+          null
+        ],
+        "return": "NORMAL"
+      },
+      {
+        "after": [],
+        "before": [],
+        "default_views": [],
+        "entry_point": "App.Pages.Pages_Privacy::ExecuteAsync()System.Threading.Tasks.Task",
+        "param_taint": [
+          null
+        ],
+        "return": "NORMAL"
+      },
+      {
+        "after": [],
+        "before": [],
+        "default_views": [],
+        "entry_point": "App.Pages.Pages_SSR::ExecuteAsync()System.Threading.Tasks.Task",
+        "param_taint": [
+          null
+        ],
+        "return": "NORMAL"
+      },
+      {
+        "after": [],
+        "before": [],
+        "default_views": [],
+        "entry_point": "App.Pages.Pages__ViewImports::ExecuteAsync()System.Threading.Tasks.Task",
+        "param_taint": [
+          null
+        ],
+        "return": "NORMAL"
+      },
+      {
+        "after": [],
+        "before": [],
+        "default_views": [],
+        "entry_point": "App.Pages.Pages__ViewStart::ExecuteAsync()System.Threading.Tasks.Task",
+        "param_taint": [
+          null
+        ],
+        "return": "NORMAL"
+      },
+      {
+        "after": [],
+        "before": [],
+        "default_views": [],
+        "entry_point": "App.Pages.Shared.Pages_Shared__Layout::ExecuteAsync()System.Threading.Tasks.Task",
+        "param_taint": [
+          null
+        ],
+        "return": "NORMAL"
+      },
+      {
+        "after": [],
+        "before": [],
+        "default_views": [],
+        "entry_point": "App.Pages.Shared.Pages_Shared__ValidationScriptsPartial::ExecuteAsync()System.Threading.Tasks.Task",
+        "param_taint": [
+          null
+        ],
+        "return": "NORMAL"
+      },
+      {
+        "define_view": "~/Pages/Comm.cshtml",
+        "view": {
+          "attributes": [],
+          "class": "App.Pages.Pages_Comm",
+          "location": "~/Pages/Comm.cshtml",
+          "method": "ExecuteAsync()System.Threading.Tasks.Task",
+          "type": "RAZOR"
+        }
+      },
+      {
+        "define_view": "~/Pages/Error.cshtml",
+        "view": {
+          "attributes": [],
+          "class": "App.Pages.Pages_Error",
+          "location": "~/Pages/Error.cshtml",
+          "method": "ExecuteAsync()System.Threading.Tasks.Task",
+          "type": "RAZOR"
+        }
+      },
+      {
+        "define_view": "~/Pages/Index.cshtml",
+        "view": {
+          "attributes": [],
+          "class": "App.Pages.Pages_Index",
+          "location": "~/Pages/Index.cshtml",
+          "method": "ExecuteAsync()System.Threading.Tasks.Task",
+          "type": "RAZOR"
+        }
+      },
+      {
+        "define_view": "~/Pages/Privacy.cshtml",
+        "view": {
+          "attributes": [],
+          "class": "App.Pages.Pages_Privacy",
+          "location": "~/Pages/Privacy.cshtml",
+          "method": "ExecuteAsync()System.Threading.Tasks.Task",
+          "type": "RAZOR"
+        }
+      },
+      {
+        "define_view": "~/Pages/SSR.cshtml",
+        "view": {
+          "attributes": [],
+          "class": "App.Pages.Pages_SSR",
+          "location": "~/Pages/SSR.cshtml",
+          "method": "ExecuteAsync()System.Threading.Tasks.Task",
+          "type": "RAZOR"
+        }
+      },
+      {
+        "define_view": "~/Pages/Shared/_Layout.cshtml",
+        "view": {
+          "attributes": [],
+          "class": "App.Pages.Shared.Pages_Shared__Layout",
+          "location": "~/Pages/Shared/_Layout.cshtml",
+          "method": "ExecuteAsync()System.Threading.Tasks.Task",
+          "type": "RAZOR"
+        }
+      },
+      {
+        "define_view": "~/Pages/Shared/_ValidationScriptsPartial.cshtml",
+        "view": {
+          "attributes": [],
+          "class": "App.Pages.Shared.Pages_Shared__ValidationScriptsPartial",
+          "location": "~/Pages/Shared/_ValidationScriptsPartial.cshtml",
+          "method": "ExecuteAsync()System.Threading.Tasks.Task",
+          "type": "RAZOR"
+        }
+      },
+      {
+        "define_view": "~/Pages/_ViewImports.cshtml",
+        "view": {
+          "attributes": [],
+          "class": "App.Pages.Pages__ViewImports",
+          "location": "~/Pages/_ViewImports.cshtml",
+          "method": "ExecuteAsync()System.Threading.Tasks.Task",
+          "type": "RAZOR"
+        }
+      },
+      {
+        "define_view": "~/Pages/_ViewStart.cshtml",
+        "view": {
+          "attributes": [],
+          "class": "App.Pages.Pages__ViewStart",
+          "location": "~/Pages/_ViewStart.cshtml",
+          "method": "ExecuteAsync()System.Threading.Tasks.Task",
+          "type": "RAZOR"
+        }
+      }
+    ],
+    "format_version": 21,
+    "language": "any",
+    "type": "Coverity analysis configuration"
+  }
+]
+
+// Coverity-generated framework configuration
+//    created 2024-Mar-11 02:00:40
+//    cov-analyze external version 2023.9.2 internal version 395a026bc9 p-2023.9-push-64
